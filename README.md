@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on SEO & Web Development<br>👯 I’m looking to collaborate on Web Development<br>🤝 I’m looking for help with Anyone Experienced<br>💬 Ask me about Search Engine Optimization<br>⚡ Fun fact I'm Lazy
+🔭 I’m currently working on Web Development & Application<br>👯 I’m looking to collaborate on Web Development<br>🤝 I’m looking for help with Anyone Experienced<br>💬 Ask me about Search Engine Optimization<br>⚡ Fun fact I'm Lazy
 
 
 ## 🌐 Socials:
