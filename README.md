@@ -81,6 +81,7 @@
 ---
 
 ## 🚀 Highlight Projects
+<div align="center">
 | Project | Tech Stack | Status |
 |---------|------------|--------|
 | 🏢 Enterprise CRM System | Frappe + Vue.js | 🚀 Active |
@@ -88,17 +89,9 @@
 | 🔗 API Gateway | REST + Auth | 🔄 Development |
 | 📊 Business Analytics Dashboard | Vue.js + Charts | 📋 Planning |
 
----
-
-## ✍️ Random Dev Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</p>
+</div>
 
 ---
 
-<p align="center"> 
-  <img src="https://visitcount.itsvg.in/api?id=boora-aman&icon=5&color=6" alt="Profile Views"/>  
-</p>
 
 <p align="center">💡 "Building the future of business automation, one commit at a time." 💡</p>
