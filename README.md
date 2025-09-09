@@ -1,7 +1,7 @@
 <!-- Profile README for boora-aman -->
 
 <h1 align="center">👋 Hi, I'm Aman Boora</h1>
-<h3 align="center">Backend Engineer @ AlfaStack Solutions | Frappe/ERPNext Specialist | Full-Stack Developer</h3>
+<h3 align="center">Backend Engineer | Frappe/ERPNext Specialist | Full-Stack Developer</h3>
 
 ---
 
