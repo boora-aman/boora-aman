@@ -81,15 +81,12 @@
 ---
 
 ## 🚀 Highlight Projects
-<div align="center">
 | Project | Tech Stack | Status |
 |---------|------------|--------|
 | 🏢 Enterprise CRM System | Frappe + Vue.js | 🚀 Active |
 | 📋 HR Automation Platform | Python + MariaDB | ✅ Deployed |
 | 🔗 API Gateway | REST + Auth | 🔄 Development |
 | 📊 Business Analytics Dashboard | Vue.js + Charts | 📋 Planning |
-
-</div>
 
 ---
 
