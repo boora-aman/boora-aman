@@ -68,7 +68,7 @@
 <img src="https://github-readme-stats-boora-aman.vercel.app/api?username=boora-aman&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
 
 <!-- Streak Stats -->
-<img src="https://streak-stats.demolab.com?user=boora-aman&theme=tokyonight&hide_border=true" width="48%" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=boora-aman)](https://git.io/streak-stats)
 
 <!-- Top Languages -->
 <img src="https://github-readme-stats-boora-aman.vercel.app/api/top-langs/?username=boora-aman&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" width="48%" />
