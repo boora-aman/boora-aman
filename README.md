@@ -64,19 +64,18 @@
 
 <div align="center">
 
-<!-- GitHub Stats -->
-<img src="https://github-readme-stats-boora-aman.vercel.app/api?username=boora-aman&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
+<!-- Profile Summary Card -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=boora-aman&theme=tokyonight" width="100%"/>
 
-<!-- Streak Stats -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=boora-aman)](https://git.io/streak-stats)
+<!-- Smaller Cards -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=boora-aman&theme=tokyonight" width="48%"/> 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=boora-aman&theme=tokyonight" width="48%"/>
 
-<!-- Top Languages -->
-<img src="https://github-readme-stats-boora-aman.vercel.app/api/top-langs/?username=boora-aman&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" width="48%" />
-
-<!-- Contribution Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=boora-aman&theme=tokyo-night&hide_border=true&area=true" width="98%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=boora-aman&theme=tokyonight" width="48%"/> 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=boora-aman&theme=tokyonight&utcOffset=5.5" width="48%"/>
 
 </div>
+
 
 
 ---
