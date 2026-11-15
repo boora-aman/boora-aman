@@ -1,120 +1,96 @@
-<!-- ====== HEADER ====== -->
-<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg">
+  <img alt="Aman Boora — I build the systems businesses run on: ERP, CRM, SaaS and the AI that drives them." src="assets/hero-dark.svg" width="100%">
+</picture>
 
-<a href="https://github.com/boora-aman">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=009688&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Aman+Boora;Frappe%2FERPNext+Developer;Full-Stack+Engineer;Security-Aware+%7C+CEH+Certified" alt="Typing SVG" />
-</a>
-
-<p>
-  <em>I architect production-grade ERP systems and ship full-stack apps end to end.</em>
+<p align="center">
+  <a href="https://abmtech.in"><b>abmtech.in</b></a> &nbsp;·&nbsp;
+  <a href="https://nestiq.si"><b>nestiq.si</b></a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/boora-aman/">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="mailto:aman.chaudharyboora@gmail.com">Email</a>
 </p>
 
-<p>
-  <a href="https://www.linkedin.com/in/boora-aman/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:aman.chaudharyboora@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=boora-aman&label=Profile%20views&color=009688&style=for-the-badge" alt="Profile views"/>
-</p>
+<br>
 
-</div>
+I design and ship business software from the database to the phone in a sales rep's pocket: **Frappe/ERPNext** apps, **Next.js** and **Vue** frontends, **React Native** mobile apps, **Rust** and **Go** services, and **LLM agents** that know where their limits are.
 
----
+I founded **[ABM Tech](https://abmtech.in)**, where we build CRM, ERP and automation for Indian businesses. At **Alfastack** I'm a core engineer on **NestIQ** and on Frappe systems for government clients. I trained in cybersecurity (CEH), so access control, audit trails and zero-trust setups come with every build.
 
-## 🚀 About Me
+<br>
 
-```yaml
-name: Aman Boora
-role: Frappe/ERPNext Developer & Full-Stack Engineer
-company: Alfastack Solution Pvt. Ltd.
-location: Dehradun, India
-focus:
-  - Custom DocTypes, Workflows & Permission Architecture
-  - REST API integrations & third-party telephony (3CX)
-  - Vue/React frontends on Python backends
-education: B.Tech, Computer Science (Cybersecurity) — Bennett University
-certs: [Certified Ethical Hacker (CEH)]
-currently_building: LocalRing — a WiFi-based multi-device call routing system
-fun_fact: "I debug complex workflows at 3 AM and call it late-night innovation 🌙"
+## `$ ls ~/systems --live`
+
+| | System | What it does | Built with |
+|:-:|---|---|---|
+| ◆ | **[NestIQ](https://nestiq.si)** | True-shape nesting SaaS for laser and sheet-metal shops. Upload DXF/SVG, nest parts on plates, export cutting programs. An AI agent reviews each nest and keeps only verified improvements. | Next.js · FastAPI · Rust · Frappe billing |
+| ◆ | **ABM CRM** | Sales CRM for teams that run on ads. Routes leads by Meta campaign, ad set and ad, sends email from each rep's own address, and tracks site visits and idle leads. | Frappe CRM v16 · Vue · Meta Graph API |
+| ◆ | **ABM CRM · Android** | The CRM in a rep's pocket: automatic call logging and recordings, GPS site-visit check-ins, team dashboards, works offline. | React Native · Expo |
+| ◆ | **BenchPilot** | Self-hosted alternative to Frappe Cloud. Benches, sites, deploys with auto-rollback, and backups, on servers you own. | Frappe · Go agent · Vue 3 · Traefik |
+| ◆ | **[PetroDiesel](https://github.com/boora-aman/petrodiesel)** | ERP for fuel stations: nozzle readings, shift cash closing, tanker decantation, Daily Stock Register. Every entry posts to the ledger. Live at 3 outlets. | ERPNext v16 |
+| ◆ | **Gift Management** | Government diplomatic gift operations: 7 modules, warehouse tracking, English/Arabic RTL, full audit trail. | Frappe · React |
+| ◆ | **Digital Concierge** | Platform for VVIP visits: segment-based itineraries, real-time chat, VPN/IP-whitelisted zero-trust access. | Frappe · WebSockets |
+| ◆ | **3CX ↔ ERPNext** | Caller screen-pop, automatic call logs, click-to-call, two-way contact sync with a 3CX phone system. | Frappe · 3CX XAPI |
+| ◇ | **[Claudia](https://github.com/boora-aman/claudia)** | Open-source Linux desktop client for Claude Code. Ships as `.deb` and AppImage. | JavaScript · Electron |
+| ◇ | **LocalRing** | *Building:* routes calls from 4–6 phones to one hub device over WiFi. | Node.js · Kotlin · WebSockets |
+
+<sub>◆ in production &nbsp;·&nbsp; ◇ open source / in progress &nbsp;·&nbsp; most client and product repos are private; demos on request</sub>
+
+<br>
+
+## `$ cat stack.yaml`
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/stack-light.svg">
+  <img alt="Stack by layer. Intelligence: LLM agents, Claude, Gemini, OpenRouter. Interface: Next.js, React, Vue 3, Tailwind, React Native, Frappe UI. Services: Frappe/ERPNext, FastAPI, Flask, Node.js, Rust, Go. Integrations: Meta Graph API, WhatsApp, 3CX, Cashfree, Razorpay. Data: MariaDB, PostgreSQL, MongoDB, Redis, Prisma. Infra: Linux, Docker, Traefik, Nginx, GitHub Actions, Vercel. Languages: Python, TypeScript, JavaScript, Rust, Go, Kotlin, SQL." src="assets/stack-dark.svg" width="100%">
+</picture>
+
+<br>
+
+## `$ git log --oneline ~/life`
+
+```diff
++ 2026  shipped   AI Nest Agent: vision LLM proposes, Rust engine verifies
++ 2026  launched  ABM CRM + Android app for sales teams that run on Meta ads
++ 2026  built     BenchPilot: Frappe Cloud-style control panel for self-hosted servers
++ 2026  released  PetroDiesel on ERPNext v16, live at 3 fuel outlets
++ 2026  graduated B.Tech CSE (Cybersecurity), Bennett University, CGPA 8.9
++ 2025  joined    Alfastack: government-grade Frappe systems, then NestIQ
++ 2023  started   full-stack at Tech Fusion: Flask + React for 25k+ monthly users
+! ----  won       1st place, Bid n Build Hackathon (Android carpooling app)
 ```
 
-- 🏛️ Built **government-grade** systems for diplomatic operations, VVIP protocol, recruitment & fuel retail
-- 🔭 Deep in **Frappe Framework / ERPNext** — 6+ live deployments serving 150+ daily users
-- 🛡️ **Security-aware** by training (CEH): zero-trust access, VPN/IP whitelisting, audit trails
-- 🧰 Comfortable across the stack — from MariaDB schemas to Vue dashboards to Linux/Nginx ops
-- 🤝 Open to collaborating on **Frappe/ERPNext, API-driven apps & workflow automation**
+<br>
 
----
+## `$ man aman`
 
-## 🛠️ Tech Stack
+<table>
+<tr>
+<td width="50%" valign="top">
 
-#### ERP & Backend
-![Frappe](https://img.shields.io/badge/Frappe-0089FF?style=for-the-badge&logo=frappe&logoColor=white)
-![ERPNext](https://img.shields.io/badge/ERPNext-1B5E20?style=for-the-badge&logo=erpnext&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+**The model proposes, the system verifies.**<br>
+<sub>An LLM never writes straight to production state. It suggests; deterministic code checks the suggestion and keeps only real improvements.</sub>
 
-#### Frontend
-![Vue.js](https://img.shields.io/badge/Vue.js-42B883?style=for-the-badge&logo=vue.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+**Every action leaves a trail.**<br>
+<sub>Who did what, when, and to which record. Government clients taught me this, and now every system I build has it.</sub>
 
-#### Databases & Infra
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+</td>
+<td width="50%" valign="top">
 
-#### Mobile & Tools
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+**Your servers, your data.**<br>
+<sub>Self-hosting comes first. No per-seat fees and no lock-in, with an open-source core where possible.</sub>
 
----
+**Boring stack, sharp product.**<br>
+<sub>Proven tools for the plumbing. The effort goes into the workflow the user actually touches.</sub>
 
-## 📌 Featured Work
+</td>
+</tr>
+</table>
 
-| Project | What it does | Stack |
-|---|---|---|
-| 🎁 **Gift Management System** | Government diplomatic ops — 7 modules, warehouse tracking, EN/AR RTL, full audit trail | Frappe / ERPNext |
-| 🛎️ **Digital Concierge** | VVIP visit platform — segment itineraries, WebSocket chat, zero-trust security | Frappe + WebSocket |
-| 👥 **Alfa HR** | Recruitment platform handling 100–150 candidates/cycle, −70% manual coordination | Frappe + Automation |
-| ⛽ **PetroDiesel** | Fuel-station management across 3 sites — 30+ custom reports, shift reconciliation | Frappe / ERPNext |
-| 📞 **LocalRing** *(building)* | WiFi-based call routing across 4–6 phones to a hub device | Node.js · Kotlin · WebSocket |
-| 🖥️ [**Claudia**](https://github.com/boora-aman/claudia) | Open-source Linux desktop client for Claude Code (.deb / AppImage) | JavaScript |
+<br>
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=boora-aman&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boora-aman&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top langs" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=boora-aman&theme=tokyonight&hide_border=true" alt="streak" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=boora-aman&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="trophies" />
-
-</div>
-
----
-
-<div align="center">
-
-> 💡 *"Building the future of business automation, one commit at a time."*
-
-⭐️ From [boora-aman](https://github.com/boora-aman)
-
-</div>
+<p align="center">
+  <sub>Open to work on <b>Frappe/ERPNext</b>, <b>product engineering</b> and <b>AI automation</b>, and to collaborations on all three.<br>
+  <code>$ echo "hi" | mail aman.chaudharyboora@gmail.com</code></sub>
+</p>
