@@ -167,13 +167,13 @@ motto:     "LLM proposes, engine verifies, audit trail remembers."
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/boora-aman/boora-aman/output/stats.svg" width="100%" alt="GitHub stats"/>
+<img src="https://raw.githubusercontent.com/boora-aman/boora-aman/output/stats.svg?v=1" width="100%" alt="GitHub stats"/>
 
 <img src="https://streak-stats.demolab.com?user=boora-aman&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub streak"/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/boora-aman/boora-aman/output/snake-dark.svg">
-  <img src="https://raw.githubusercontent.com/boora-aman/boora-aman/output/snake.svg" width="100%" alt="Contribution snake"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/boora-aman/boora-aman/output/snake-dark.svg?v=1">
+  <img src="https://raw.githubusercontent.com/boora-aman/boora-aman/output/snake.svg?v=1" width="100%" alt="Contribution snake"/>
 </picture>
 
 </div>
